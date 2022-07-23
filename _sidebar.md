@@ -28,4 +28,8 @@
 * [多线程 - Threads](/threads)
 * [定时器 - Timers](/timers)
 * [用户界面 - UI](/ui)
+* [人工智能 - AI](/AI)
+* [压缩解压 - Zips](/zips)
+* [加密解密 - Crypto](/crypto)
+* [编码解码 - Base64](/base64)
 * [调用Java - Work with Java](https://developer.mozilla.org/zh-CN/docs/Mozilla/Projects/Rhino/Scripting_Java)

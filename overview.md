@@ -33,8 +33,11 @@ Auto.js 使用[JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScri
 - shell: Shell 命令。
 - threads: 多线程支持。
 - ui: UI 界面。用于显示自定义的 UI 界面，和用户交互。
-- AI：人工智能相关。包含OCR等功能。
+- AI：人工智能相关，包含OCR等功能。
+- zips：压缩解压。
+- crypto：加密解密。
+- base64：编码解码。
 
-除此之外，Auto.js 内置了对[Promise](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise)的支持。
+除此之外，Auto.js 还内置了对[Promise](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Promise)的支持。
 
 
